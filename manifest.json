@@ -1,0 +1,21 @@
+{
+    "name": "On Target",
+    "short_name": "On Target",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "images/ontarget.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/ontarget.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#edbfa9",
+    "background_color": "#114056",
+    "display": "standalone"
+  }
